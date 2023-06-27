@@ -1,5 +1,5 @@
 # Project Rabbit
-
+### 미국 시카고 안전경로 추천 어플리케이션
 The application that recommends a safe route for pedestrian by predicting the riskiness of the roads.
 
 ## Team ChasingFox
